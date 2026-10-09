@@ -2,6 +2,8 @@
 
 Static presentation and privacy notice for ABA ERP / ABP ERP and ABP ERP Messaging.
 
+The platform owner/operator named by the owner is ООО «АльфаБайтПро», Belarus. Companies connecting their accounts are platform customers, not the platform operator. Hosting repository/account names do not establish legal ownership.
+
 ## Boundaries
 
 - Public content only. The application source, private records and credentials are not included.
